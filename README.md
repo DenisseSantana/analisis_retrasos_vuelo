@@ -22,6 +22,7 @@ El objetivo es identificar patrones de retrasos por **origen, destino y causas p
 ├── outputs/
 │   ├── Análisis de Retrasos y Cancelaciones de Vuelos en EE.UU. (Enero 2023).pptx
 │   ├── Proyecto_3_Vuelos_voila_v2 (21_9_2025 22：15：26).HTML
+│   ├── Análisis de Retrasos y Cancelaciones de Vuelos en EE.UU. (Enero 2023).pdf
 │   ├── ppt_preview/
 │        ├── Slide1-12.jpg
 │   └── requirements_voila.txt
@@ -60,7 +61,7 @@ El objetivo es identificar patrones de retrasos por **origen, destino y causas p
 
 Vista previa de la presentación de resultados:  
 
-[![Ver presentación](outputs/ppt_preview/Slide1.JPG)](outputs/Análisis%20de%20Retrasos%20y%20Cancelaciones%20de%20Vuelos%20en%20EE.UU.%20(Enero%202023).pptx)
+[![Ver presentación](outputs/ppt_preview/Slide1.JPG)](outputs/Análisis%20de%20Retrasos%20y%20Cancelaciones%20de%20Vuelos%20en%20EE.UU.%20(Enero%202023).pdf)
 
 > 📌 Haz clic en la imagen para abrir la presentación completa en PDF.  
 
