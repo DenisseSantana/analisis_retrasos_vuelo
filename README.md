@@ -60,7 +60,7 @@ El objetivo es identificar patrones de retrasos por **origen, destino y causas p
 
 Vista previa de la presentación de resultados:  
 
-[![Ver presentación](outputs/ppt_preview/Slide1.jpg)](outputs/Análisis%20de%20Retrasos%20y%20Cancelaciones%20de%20Vuelos%20en%20EE.UU.%20(Enero%202023).pptx)
+[![Ver presentación](outputs/ppt_preview/Slide1.JPG)](outputs/Análisis%20de%20Retrasos%20y%20Cancelaciones%20de%20Vuelos%20en%20EE.UU.%20(Enero%202023).pptx)
 
 > 📌 Haz clic en la imagen para abrir la presentación completa en PDF.  
 
