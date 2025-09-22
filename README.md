@@ -6,24 +6,26 @@ El objetivo es identificar patrones de retrasos por **origen, destino y causas p
 ---
 
 ## 📂 Estructura del repositorio
+
+```text
 ├── data/
-│ ├── flights_202301.csv
-│ ├── flights_merged.csv
-│ ├── flights_typed.csv
-│ ├── AIRLINE_CODE_DICTIONARY.csv
-│ └── DOT_CODE_DICTIONARY.xlsx
+│   ├── flights_202301.csv
+│   ├── flights_merged.csv
+│   ├── flights_typed.csv
+│   ├── AIRLINE_CODE_DICTIONARY.csv
+│   └── DOT_CODE_DICTIONARY.xlsx
 │
 ├── notebooks/
-│ ├── Proyecto3_Vuelos.ipynb
-│ └── Proyecto3_Vuelos_voila_v2.ipynb
+│   ├── Proyecto3_Vuelos.ipynb
+│   └── Proyecto3_Vuelos_voila_v2.ipynb
 │
 ├── outputs/
-│ ├── Analisis_Retrasos.pptx
-│ ├── Analisis_Retrasos.pdf
-│ └── requirements_voila.txt
+│   ├── Analisis_Retrasos.pptx
+│   ├── Analisis_Retrasos.pdf
+│   └── requirements_voila.txt
 │
 └── README.md
-
+```
 
 ---
 
