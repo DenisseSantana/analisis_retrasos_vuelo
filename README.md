@@ -3,8 +3,9 @@
 Este proyecto analiza retrasos de vuelos en Estados Unidos utilizando Python y Jupyter Notebooks.  
 El objetivo es identificar patrones de retrasos por **origen, destino y causas principales**, y generar recomendaciones para mejorar la puntualidad.
 
-Link a Colab: https://colab.research.google.com/drive/1QQQdh0mPB0Bdap6OIVOS5sFILPsuwDIg?usp=sharing
-Link a Minuta: https://docs.google.com/document/d/1RkrT4Frtek6_DKEYYdw8Oe8RjTO2_NMpCqZfH03wbII/edit?usp=sharing
+- Link a Colab: https://colab.research.google.com/drive/1QQQdh0mPB0Bdap6OIVOS5sFILPsuwDIg?usp=sharing
+
+- Link a Minuta: https://docs.google.com/document/d/1RkrT4Frtek6_DKEYYdw8Oe8RjTO2_NMpCqZfH03wbII/edit?usp=sharing
 
 ---
 
